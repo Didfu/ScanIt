@@ -1,0 +1,16 @@
+ScanIt: An AI and Blockchain Powered Open-Source Framework for Content Authenticity
+Copyright 2026 ScanIt Authors
+
+This product includes software developed by:
+
+1. DetectGPT (https://github.com/eric-mitchell/detect-gpt)
+   Copyright (c) 2023 Eric Mitchell
+   Licensed under MIT License.
+
+2. GLTR (https://github.com/HendrikStrobelt/detecting-fake-text)
+   Copyright (c) 2019 Hendrik Strobelt, Sebastian Gehrmann, Alexander Rush
+   Licensed under Apache License 2.0.
+
+3. Fast-DetectGPT (https://github.com/baoguangsheng/fast-detect-gpt)
+   Copyright (c) 2023 Guangsheng Bao
+   Licensed under MIT License.
