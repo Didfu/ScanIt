@@ -133,6 +133,4 @@ If you use ScanIt in your research, please cite our ICIICS 2026 paper:
 
 ## 📝 License
 
-This project is licensed under the **Apache-2.0 License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```
+This project is licensed under the **Apache-2.0 License** - see the [LICENSE](https://github.com/Didfu/ScanIt?tab=Apache-2.0-1-ov-file) file for details.
