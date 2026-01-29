@@ -3125,7 +3125,7 @@ class Gemma3N2BItChecker:
             'Authorization': f'Bearer {api_key}'
         }
         data = {
-            "detector": "fast-detect(falcon-7b/falcon-7b-instruct)",
+            "detector": "fast-detect(llama3-8b/llama3-8b-instruct)",
             "text": text
         }
         
