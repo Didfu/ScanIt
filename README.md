@@ -51,7 +51,7 @@ Prerequisites: Python 3.12+, Node.js, and a GPU with at least 16GB VRAM (Recomme
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/ScanIt.git](https://github.com/yourusername/ScanIt.git)
+git clone https://github.com/Didfu/ScanIt.git
 cd ScanIt
 
 ```
@@ -116,18 +116,7 @@ ScanIt integrates and builds upon several open-source research projects. We stri
 
 ## 📖 Citation
 
-If you use ScanIt in your research, please cite our ICIICS 2026 paper:
-
-```bibtex
-@inproceedings{scanit2026,
-  title={ScanIt: An AI and Blockchain Powered Open-Source Framework for Content Authenticity},
-  author={Mahyavanshi, Dhruv and Patil, Kartik and Bora, Gargi and Prajapati, Harsh and Agrawal, Shital and Kolekar, Uttam},
-  booktitle={2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)},
-  year={2026},
-  organization={IEEE}
-}
-
-```
+If you use ScanIt in your research, please cite our paper.
 
 ---
 
