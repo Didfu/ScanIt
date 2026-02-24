@@ -118,6 +118,8 @@ ScanIt integrates and builds upon several open-source research projects. We stri
 
 If you use ScanIt in your research, please cite our paper.
 
+https://doi.org/10.5281/zenodo.18759793
+
 ---
 
 ## 📝 License
