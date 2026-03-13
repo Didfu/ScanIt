@@ -73,7 +73,15 @@ python -m playwright install --with-deps
 
 Install IPFS Desktop App and run it on port 5002
 
-### 4. Run the Application
+### 4. Blockchain Setup
+
+```bash
+truffle init
+enter no for the prompts asked
+inside truffle-config.js and change port from 8545 to 7545
+```
+
+### 5. Run the Application
 
 ```bash
 python server.py
