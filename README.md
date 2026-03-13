@@ -65,42 +65,21 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+python -m playwright install --with-deps
 
 ```
 
-### 3. Blockchain Setup (Local Testnet)
+### 3. IPFS Setup
 
-Ensure you have **Ganache** installed and running on port `7545`.
+Install IPFS Desktop App and run it on port 5002
 
-```bash
-# Navigate to smart contracts folder
-cd blockchain
-
-# Compile and migrate contracts
-truffle compile
-truffle migrate --network development
-
-```
-
-*Note: Copy the deployed contract address and update it in `server/config.py`.*
-
-### 4. IPFS Setup
+### 4. Run the Application
 
 ```bash
-# Start the IPFS daemon for decentralized storage
-ipfs daemon
-
-```
-
-### 5. Run the Application
-
-```bash
-# Start the FastAPI Server
 python server.py
-
 ```
 
-The API will be available at `http://localhost:8000`.
+The App will be available at `http://localhost:5001`.
 
 ---
 
