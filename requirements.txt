@@ -40,3 +40,4 @@ charset-normalizer==3.4.3
 # === Optional / Dev (keep last) ===
 typing_extensions==4.15.0
 setuptools==80.9.0
+watchdog
