@@ -3,7 +3,7 @@
 
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 ![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)
-![Blockchain](https://img.shields.io/badge/Blockchain-Polygon%20%7C%20Ethereum-purple)
+![Blockchain](https://img.shields.io/)
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-orange)
 
 **ScanIt** is an open-source framework designed to solve the liability crisis in the age of Generative AI. It merges multi-model AI detection with immutable blockchain ledgers to provide a transparent, mathematically verifiable chain of custody for digital documents.
